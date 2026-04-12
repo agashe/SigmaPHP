@@ -6,10 +6,7 @@
     "autoload": {
         "psr-4": {
             "App\\": "app/"
-        },
-        "files": [
-            "vendor/sigmaphp/sigmaphp-core/src/Helpers/helper_methods.php"
-        ]
+        }
     },
     "autoload-dev": {
         "psr-4": {
