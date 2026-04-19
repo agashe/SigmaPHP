@@ -53,7 +53,7 @@ http://localhost:8888
 ```
 ## What's Next ?
 
-To dive deeper into the framework's capabilities, explore the comprehensive [Documentation](https://www.example.com). You can also check out the [Demo Application](https://www.example.com) for a practical example. We highly value your contribution and feedback, so please feel free to reach out!
+To dive deeper into the framework's capabilities, explore the comprehensive [Documentation](https://www.sigmaphp.com). You can also check out the [Demo Application](https://github.com/SigmaPHP/SigmaPHP-Demo) for a practical example. We highly value your contribution and feedback, so please feel free to reach out!
 
 ## License
 (SigmaPHP Framework) released under the terms of the MIT license.
