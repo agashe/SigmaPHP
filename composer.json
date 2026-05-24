@@ -14,7 +14,7 @@
         }
     },
     "require": {
-        "sigmaphp/sigmaphp-core": "*"
+        "sigmaphp/sigmaphp-core": "^0.4"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
